@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1547151337 source:c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\main.c
+	"includes.h"
+	"LoadingScreen.h"
+	"MainScreen.h"
+	"GenericFunctions.h"
+
+1546126831 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\loadingscreen.c
+	"includes.h"
+	"LoadingScreen.h"
+
+1546537996 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\includes.h
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<string.h>
+
+1547151202 source:c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\loadingscreen.c
+	"LoadingScreen.h"
+	"GenericFunctions.h"
+
+1547150248 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\loadingscreen.h
+	"includes.h"
+
+1547139448 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\mainscreen.h
+	"includes.h"
+
+1547151190 source:c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\mainscreen.c
+	"MainScreen.h"
+	"GenericFunctions.h"
+	"PrvaIgra.h"
+	"GameStatistics.h"
+	"DrugaIgra.h"
+
+1546982762 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\gamestatistics.h
+	"includes.h"
+
+1547155065 source:c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\gamestatistics.c
+	"GameStatistics.h"
+	"GenericFunctions.h"
+	"MainScreen.h"
+
+1546522927 source:c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\keygen.c
+	"includes.h"
+
+1546463661 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\keygen.h
+
+1547137598 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\prvaigra.h
+	"includes.h"
+
+1547153020 source:c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\prvaigra.c
+	"MainScreen.h"
+	"GenericFunctions.h"
+	"PrvaIgra.h"
+
+1547153065 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\genericfunctions.h
+	"includes.h"
+
+1547154229 source:c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\genericfunctions.c
+	"GenericFunctions.h"
+	"MainScreen.h"
+
+1547154386 source:c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\drugaigra.c
+	"DrugaIgra.h"
+	"GenericFunctions.h"
+	"MainScreen.h"
+
+1547153058 c:\users\igorm\onedrive\radna površina\programiranje\platforma za igre\drugaigra.h
+	"includes.h"
+
